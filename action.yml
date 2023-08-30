@@ -1,4 +1,4 @@
-name: 'redoc-lint-github-action'
+name: 'redocly-lint-action'
 
 description: 'Runs the Redocly Open API CLI lint over your open api document'
 

@@ -1,4 +1,4 @@
-# redoc-lint-github-action
+# redocly-lint-action
 
 This action allows you to lint your OpenAPI file. 
 
